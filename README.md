@@ -1,6 +1,4 @@
 # AEXON-PT-002
-Sanitized penetration testing case study covering reconnaissance, vulnerability validation, risk analysis, and remediation reporting.
-# AEXON-PT-002
 
 ## Penetration Testing Case Study
 
